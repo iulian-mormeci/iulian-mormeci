@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> 👨‍💻 ADHD Developer | Code Enthusiast | Problem Solver</h2>
 <p align="center">
-  <samp>Hey there! I'm a developer with a passion for creating innovative solutions, and I love exploring new technologies. As someone with ADHD, I thrive in dynamic environments and enjoy tackling challenges from unique perspectives. My brain is constantly jumping between ideas, and I bring that energy into everything I code.
+  <samp>Hey there! I'm a web developer with a passion for creating innovative solutions, and I love exploring new technologies. As someone with ADHD, I thrive in dynamic environments and enjoy tackling challenges from unique perspectives. My brain is constantly jumping between ideas, and I bring that energy into everything I code.
   </samp>
   <br> <br>
 </p>
