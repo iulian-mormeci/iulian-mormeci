@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
-  <img src="./icons/java.svg"  width='100' height='100'/>&nbsp;&nbsp;&nbsp;
-  <img src="./icons/laravel.svg"  width='100' height='100'/>&nbsp;&nbsp;&nbsp;
-  <img src="./icons/php.svg"  width='100' height='100' />&nbsp;&nbsp;
+  <img src="./icons/java.svg"  width='60' height='60'/>&nbsp;&nbsp;&nbsp;
+  <img src="./icons/laravel.svg"  width='60' height='60'/>&nbsp;&nbsp;&nbsp;
+  <img src="./icons/php.svg"  width='60' height='60' />&nbsp;&nbsp;
 </p>
 <p align="center"> Laravel | PHP | Java | Git | Github | JavaScript | CSS | HTML</p>
 
@@ -33,6 +33,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/iulian-catalin-mormeci-developer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:iulian.mormeci@proton.me?subject=Hello%20Iulian,%20From%20Github"><img src="./icons/email.svg"  width='100' height='100' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:iulian.mormeci@proton.me?subject=Hello%20Iulian,%20From%20Github"><img src="./icons/email.svg"  width='40' height='40' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
