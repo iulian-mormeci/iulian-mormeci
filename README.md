@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
-  <img src="https://avatars.githubusercontent.com/u/184079239?v=4" alt="https://github.com/iulian-mormeci" />
+  <img src="https://avatars.githubusercontent.com/u/184079239?v=4" width='30' height='30' border-radius='50%' alt="https://github.com/iulian-mormeci" />
 </p>
 
 <hr>
