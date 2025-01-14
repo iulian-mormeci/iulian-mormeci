@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
-  <img src="https://github.com/iulian-mormeci" alt="https://github.com/iulian-mormeci" />
+  <img src="https://avatars.githubusercontent.com/u/184079239?v=4" alt="https://github.com/iulian-mormeci" />
 </p>
 
 <hr>
@@ -32,6 +32,5 @@ You can click the Preview link to take a look at your changes.
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/iulian-catalin-mormeci-developer/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target='_blank' href="mailto:iulian.mormeci@proton.me?subject=Hello%20Iulian,%20From%20Github"><img src="./icons/email.svg"  width='40' height='40' /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
