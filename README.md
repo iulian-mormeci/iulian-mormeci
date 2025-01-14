@@ -9,13 +9,33 @@ You can click the Preview link to take a look at your changes.
 </div>
 <p align="center"> (Open for Hiring)</p>
 
-<h2 align="center"> 👨‍💻 Who-am-I</h2>
+<h2 align="center"> 👨‍💻 ADHD Developer | Code Enthusiast | Problem Solver</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>Hey there! I'm a developer with a passion for creating innovative solutions, and I love exploring new technologies. As someone with ADHD, I thrive in dynamic environments and enjoy tackling challenges from unique perspectives. My brain is constantly jumping between ideas, and I bring that energy into everything I code.
   </samp>
   <br> <br>
 </p>
 
+  <h2>🔧 What I Do:</h2>
+<ul>
+  <li>Full-stack development</li>
+  <li>Building fast and efficient applications</li>
+  <li>Experimenting with new technologies</li>
+  <li>Solving complex problems with creative solutions</li>
+</ul>
+<br> <br>
+<h2>💡 Why I Code:</h2>
+
+<p>For me, coding is a way to channel my energy into something meaningful. It’s a field where my ADHD can be an asset, helping me see problems differently and think outside the box.</p>
+
+<br> <br>
+<h2>📢 Let's Connect!</h2>
+
+<p>I’m always open to collaboration and discussions on anything related to technology, productivity, or even life in general. Feel free to reach out if you want to chat or collaborate on a project!</p>
+
+<hr>
+
+<p>Thanks for visiting my profile! 🚀</p>
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
